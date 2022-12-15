@@ -1,14 +1,4 @@
 #pragma once
-/*
-Fulati Aizihaer
-Final Project / Final Project
-11/27/2022
-Windoes 10, Visual Studio 2022
-*/
-
-// Programmer: Fulati Aizihaer
-// Programmer's ID: 1716403
-
 #include <iostream>
 #include <string>
 using namespace std;
